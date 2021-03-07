@@ -20,3 +20,4 @@ Exercise-6:Support Vector Machines,
 
 Exercise-7:K-means Clustering and Principal Component Analysis
 
+Exercise-8:Anomaly Detection and Recommender system.
